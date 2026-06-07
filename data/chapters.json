@@ -1,0 +1,353 @@
+{
+  "version": "1.0",
+  "grade": "四年级下册",
+  "region": "辽宁·大连",
+  "textbook": "北师大版（新世纪）",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "小数的意义与加减法",
+      "landmark": "大连商场",
+      "landmark_icon": "🏬",
+      "story_intro": "周末到了，妈妈给了你50块钱，带你来到大连商场买文具和零食。每样东西的价格都有小数，你能帮妈妈算出该付多少钱、该找零多少吗？",
+      "story_short": "50块钱逛大连商场，算算账吧！",
+      "knowledge_points": [
+        "小数的意义",
+        "小数的读写",
+        "小数比大小",
+        "小数加减法"
+      ],
+      "total_questions": 22,
+      "levels": [
+        {
+          "id": 1,
+          "type": "choice",
+          "title": "🐠 海底选择题",
+          "difficulty": "warmup",
+          "count": 4,
+          "description": "热身关 — 小数基础概念"
+        },
+        {
+          "id": 2,
+          "type": "fill",
+          "title": "⚓ 港口填空题",
+          "difficulty": "easy",
+          "count": 4,
+          "description": "进阶关 — 小数读写与比大小"
+        },
+        {
+          "id": 3,
+          "type": "calc",
+          "title": "🧮 浪花计算器",
+          "difficulty": "medium",
+          "count": 4,
+          "description": "实战关 — 小数加减竖式计算"
+        },
+        {
+          "id": 4,
+          "type": "match",
+          "title": "🗺️ 拖拽配对",
+          "difficulty": "hard",
+          "count": 4,
+          "description": "综合关 — 小数与分数配对"
+        },
+        {
+          "id": 5,
+          "type": "speed",
+          "title": "⏱️ 海鸥限时速答",
+          "difficulty": "challenge",
+          "count": 6,
+          "description": "挑战关 — 15秒限时快速答题"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "认识三角形和四边形",
+      "landmark": "星海广场",
+      "landmark_icon": "⭐",
+      "story_intro": "你来到大连最著名的星海广场！广场上的建筑、雕塑和地面图案里，隐藏着数不清的三角形和四边形。拿起数学放大镜，找出它们的秘密吧！",
+      "story_short": "星海广场上的几何世界！",
+      "knowledge_points": [
+        "图形分类",
+        "三角形分类",
+        "三角形内角和",
+        "三角形边的关系",
+        "四边形分类"
+      ],
+      "total_questions": 22,
+      "levels": [
+        {
+          "id": 1,
+          "type": "choice",
+          "title": "🐠 海底选择题",
+          "difficulty": "warmup",
+          "count": 4,
+          "description": "热身关 — 图形分类基础"
+        },
+        {
+          "id": 2,
+          "type": "fill",
+          "title": "⚓ 港口填空题",
+          "difficulty": "easy",
+          "count": 4,
+          "description": "进阶关 — 三角形角度/边长"
+        },
+        {
+          "id": 3,
+          "type": "judge",
+          "title": "🏗️ 建筑判断灯",
+          "difficulty": "medium",
+          "count": 4,
+          "description": "实战关 — 判断图形性质对错"
+        },
+        {
+          "id": 4,
+          "type": "match",
+          "title": "🗺️ 拖拽配对",
+          "difficulty": "hard",
+          "count": 4,
+          "description": "综合关 — 图形与性质配对"
+        },
+        {
+          "id": 5,
+          "type": "speed",
+          "title": "⏱️ 海鸥限时速答",
+          "difficulty": "challenge",
+          "count": 6,
+          "description": "挑战关 — 限时快速判断"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "小数乘法",
+      "landmark": "大连港码头",
+      "landmark_icon": "⚓",
+      "story_intro": "呜——轮船靠岸了！大连港码头上，老船长正在清点集装箱。每个集装箱重2.35吨，12个集装箱一共多重呢？快帮老船长算出来，让货物准时出发！",
+      "story_short": "帮老船长算集装箱重量！",
+      "knowledge_points": [
+        "小数乘整数",
+        "小数乘小数",
+        "小数点位置确定",
+        "积的近似值",
+        "运算定律推广到小数"
+      ],
+      "total_questions": 22,
+      "levels": [
+        {
+          "id": 1,
+          "type": "choice",
+          "title": "🐠 海底选择题",
+          "difficulty": "warmup",
+          "count": 4,
+          "description": "热身关 — 乘法基础概念"
+        },
+        {
+          "id": 2,
+          "type": "fill",
+          "title": "⚓ 港口填空题",
+          "difficulty": "easy",
+          "count": 4,
+          "description": "进阶关 — 小数乘整数"
+        },
+        {
+          "id": 3,
+          "type": "calc",
+          "title": "🧮 浪花计算器",
+          "difficulty": "medium",
+          "count": 4,
+          "description": "实战关 — 竖式小数×小数"
+        },
+        {
+          "id": 4,
+          "type": "match",
+          "title": "🗺️ 拖拽配对",
+          "difficulty": "hard",
+          "count": 4,
+          "description": "综合关 — 算式与结果配对"
+        },
+        {
+          "id": 5,
+          "type": "speed",
+          "title": "⏱️ 海鸥限时速答",
+          "difficulty": "challenge",
+          "count": 6,
+          "description": "挑战关 — 限时快速心算"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "观察物体",
+      "landmark": "贝壳博物馆",
+      "landmark_icon": "🏛️",
+      "story_intro": "欢迎来到大连贝壳博物馆！这里收藏了来自世界各地的奇珍异贝。每个展柜里，贝壳以不同角度展示——从正面看、从上面看、从侧面看，它们分别是什么形状呢？",
+      "story_short": "贝壳博物馆的三视图挑战！",
+      "knowledge_points": [
+        "从不同方向观察物体",
+        "三视图识别",
+        "根据平面图还原立体图形",
+        "小正方体组合"
+      ],
+      "total_questions": 22,
+      "levels": [
+        {
+          "id": 1,
+          "type": "choice",
+          "title": "🐠 海底选择题",
+          "difficulty": "warmup",
+          "count": 4,
+          "description": "热身关 — 单方向观察"
+        },
+        {
+          "id": 2,
+          "type": "fill",
+          "title": "⚓ 港口填空题",
+          "difficulty": "easy",
+          "count": 4,
+          "description": "进阶关 — 数小正方体个数"
+        },
+        {
+          "id": 3,
+          "type": "judge",
+          "title": "🏗️ 建筑判断灯",
+          "difficulty": "medium",
+          "count": 4,
+          "description": "实战关 — 判断视图对错"
+        },
+        {
+          "id": 4,
+          "type": "match",
+          "title": "🗺️ 拖拽配对",
+          "difficulty": "hard",
+          "count": 4,
+          "description": "综合关 — 物体与三视图配对"
+        },
+        {
+          "id": 5,
+          "type": "speed",
+          "title": "⏱️ 海鸥限时速答",
+          "difficulty": "challenge",
+          "count": 6,
+          "description": "挑战关 — 限时空间想象"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "认识方程",
+      "landmark": "大连有轨电车",
+      "landmark_icon": "🚃",
+      "story_intro": "叮叮当——大连的老式有轨电车来了！这辆车从起点站出发，开了若干站后，还剩8站到达终点。你知道一共有多少站吗？用字母表示数，列出方程来求解吧！",
+      "story_short": "跟着有轨电车学方程！",
+      "knowledge_points": [
+        "用字母表示数",
+        "等式性质",
+        "方程定义",
+        "列方程解应用题",
+        "找等量关系"
+      ],
+      "total_questions": 22,
+      "levels": [
+        {
+          "id": 1,
+          "type": "choice",
+          "title": "🐠 海底选择题",
+          "difficulty": "warmup",
+          "count": 4,
+          "description": "热身关 — 字母表示数"
+        },
+        {
+          "id": 2,
+          "type": "fill",
+          "title": "⚓ 港口填空题",
+          "difficulty": "easy",
+          "count": 4,
+          "description": "进阶关 — 等式性质"
+        },
+        {
+          "id": 3,
+          "type": "calc",
+          "title": "🧮 浪花计算器",
+          "difficulty": "medium",
+          "count": 4,
+          "description": "实战关 — 解方程计算"
+        },
+        {
+          "id": 4,
+          "type": "match",
+          "title": "🗺️ 拖拽配对",
+          "difficulty": "hard",
+          "count": 4,
+          "description": "综合关 — 应用题配对"
+        },
+        {
+          "id": 5,
+          "type": "speed",
+          "title": "⏱️ 海鸥限时速答",
+          "difficulty": "challenge",
+          "count": 6,
+          "description": "挑战关 — 限时解方程"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "数据的表示与分析",
+      "landmark": "大连气象台",
+      "landmark_icon": "🌤️",
+      "story_intro": "大连气象台记录了这座城市一周的天气数据。你能帮忙整理数据、画统计图、算出平均温度吗？做一个小小气象统计师吧！",
+      "story_short": "当一回大连气象统计师！",
+      "knowledge_points": [
+        "条形统计图",
+        "折线统计图",
+        "平均数的意义与计算",
+        "从图表中获取信息"
+      ],
+      "total_questions": 22,
+      "levels": [
+        {
+          "id": 1,
+          "type": "choice",
+          "title": "🐠 海底选择题",
+          "difficulty": "warmup",
+          "count": 4,
+          "description": "热身关 — 统计图阅读"
+        },
+        {
+          "id": 2,
+          "type": "fill",
+          "title": "⚓ 港口填空题",
+          "difficulty": "easy",
+          "count": 4,
+          "description": "进阶关 — 平均数计算"
+        },
+        {
+          "id": 3,
+          "type": "judge",
+          "title": "🏗️ 建筑判断灯",
+          "difficulty": "medium",
+          "count": 4,
+          "description": "实战关 — 数据判断对错"
+        },
+        {
+          "id": 4,
+          "type": "match",
+          "title": "🗺️ 拖拽配对",
+          "difficulty": "hard",
+          "count": 4,
+          "description": "综合关 — 数据与图表配对"
+        },
+        {
+          "id": 5,
+          "type": "speed",
+          "title": "⏱️ 海鸥限时速答",
+          "difficulty": "challenge",
+          "count": 6,
+          "description": "挑战关 — 限时数据处理"
+        }
+      ]
+    }
+  ]
+}

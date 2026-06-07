@@ -1,0 +1,518 @@
+{
+  "chapter_id": 5,
+  "title": "认识方程",
+  "questions": {
+    "choice": [
+      {
+        "id": "c5_c_01",
+        "question": "下面哪个是方程？",
+        "options": [
+          "3x + 5 = 20",
+          "3x + 5",
+          "3 + 5 = 8",
+          "x > 10"
+        ],
+        "answer": 0,
+        "explain": "方程是含有未知数的等式。3x+5=20既有未知数x又是等式",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_c_02",
+        "question": "方程 2x = 10 的解是（ ）",
+        "options": [
+          "x = 5",
+          "x = 10",
+          "x = 2",
+          "x = 20"
+        ],
+        "answer": 0,
+        "explain": "2x=10，x=10÷2=5",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_c_03",
+        "question": "如果 a + 3 = b + 3，那么（ ）",
+        "options": [
+          "a = b",
+          "a > b",
+          "a < b",
+          "无法确定"
+        ],
+        "answer": 0,
+        "explain": "等式两边同时减去3，得a=b。等式的性质：等式两边同时加减同一个数，等式仍成立",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_c_04",
+        "question": "下面哪个不是方程？",
+        "options": [
+          "x + 5 > 12",
+          "2y = 8",
+          "a - 3 = 7",
+          "m ÷ 4 = 2"
+        ],
+        "answer": 0,
+        "explain": "x+5>12是不等式，不是等式，所以不是方程",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_c_05",
+        "question": "方程 15 - x = 8 的解是（ ）",
+        "options": [
+          "x = 7",
+          "x = 23",
+          "x = 8",
+          "x = 15"
+        ],
+        "answer": 0,
+        "explain": "15-x=8，移项得x=15-8=7",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_c_06",
+        "question": "用字母表示加法交换律，正确的是（ ）",
+        "options": [
+          "a + b = b + a",
+          "a × b = b × a",
+          "(a + b) + c = a + (b + c)",
+          "a + 0 = a"
+        ],
+        "answer": 0,
+        "explain": "加法交换律：交换两个加数的位置，和不变。用字母表示：a+b=b+a",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_c_07",
+        "question": "大连发现王国门票成人x元，儿童半价，儿童的票价是（ ）元",
+        "options": [
+          "x ÷ 2",
+          "2x",
+          "x - 2",
+          "x + 2"
+        ],
+        "answer": 0,
+        "explain": "半价就是原价除以2，儿童票价为x÷2元",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_c_08",
+        "question": "使方程左右两边相等的（ ）叫做方程的解",
+        "options": [
+          "未知数的值",
+          "已知数",
+          "常数",
+          "系数"
+        ],
+        "answer": 0,
+        "explain": "方程的解就是使方程左右两边相等的未知数的值",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_c_09",
+        "question": "3x = 18 和 x + 2 = 8 中x的值相同吗？",
+        "options": [
+          "相同，都是6",
+          "不同",
+          "第一个是6，第二个是6",
+          "无法确定"
+        ],
+        "answer": 0,
+        "explain": "3x=18，x=6；x+2=8，x=6。两个方程的解相同",
+        "difficulty": 2
+      }
+    ],
+    "fill": [
+      {
+        "id": "c5_f_01",
+        "question": "一本书a页，看了b页，还剩（ ）页（用含字母的式子表示）",
+        "answer": "a-b",
+        "tolerance": 0,
+        "explain": "剩下的页数 = 总页数 - 已看页数 = a - b",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_f_02",
+        "question": "解方程：x + 8 = 20，x = ?",
+        "answer": "12",
+        "tolerance": 0,
+        "explain": "x=20-8=12",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_f_03",
+        "question": "解方程：5x = 35，x = ?",
+        "answer": "7",
+        "tolerance": 0,
+        "explain": "x=35÷5=7",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_f_04",
+        "question": "苹果每千克m元，买3千克需要（ ）元",
+        "answer": "3m",
+        "tolerance": 0,
+        "explain": "总价=单价×数量，3×m=3m（数字写在字母前）",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_f_05",
+        "question": "解方程：x ÷ 4 = 12，x = ?",
+        "answer": "48",
+        "tolerance": 0,
+        "explain": "x=12×4=48",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_f_06",
+        "question": "学校合唱队有x人，舞蹈队比合唱队多15人，舞蹈队有（ ）人",
+        "answer": "x+15",
+        "tolerance": 0,
+        "explain": "比x多15就是x+15",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_f_07",
+        "question": "解方程：2x + 3 = 15，x = ?",
+        "answer": "6",
+        "tolerance": 0,
+        "explain": "2x=15-3=12，x=12÷2=6",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_f_08",
+        "question": "长方形的长是a厘米，宽是b厘米，周长C = （ ）（用含字母的式子表示）",
+        "answer": "2(a+b)",
+        "tolerance": 0,
+        "explain": "长方形周长 = (长+宽)×2 = 2(a+b)",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_f_09",
+        "question": "解方程：3x - 7 = 20，x = ?",
+        "answer": "9",
+        "tolerance": 0,
+        "explain": "3x=20+7=27，x=27÷3=9",
+        "difficulty": 3
+      }
+    ],
+    "calc": [
+      {
+        "id": "c5_calc_01",
+        "question": "小明有x张邮票，小红有28张，两人共有50张。列方程求x。",
+        "answer": "22",
+        "tolerance": 0,
+        "explain": "x+28=50，x=50-28=22（张）",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_calc_02",
+        "question": "学校买了5个篮球，每个x元，共付了225元。每个篮球多少元？",
+        "answer": "45",
+        "tolerance": 0,
+        "explain": "5x=225，x=225÷5=45（元）",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_calc_03",
+        "question": "果园里有苹果树120棵，是梨树的3倍。梨树有多少棵？设梨树x棵，列方程求解。",
+        "answer": "40",
+        "tolerance": 0,
+        "explain": "3x=120，x=120÷3=40（棵）",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_calc_04",
+        "question": "妈妈买了3千克苹果和2千克梨，苹果每千克6元，梨每千克y元，一共花了26元。梨每千克多少元？",
+        "answer": "4",
+        "tolerance": 0,
+        "explain": "3×6+2y=26，18+2y=26，2y=8，y=4",
+        "difficulty": 3
+      },
+      {
+        "id": "c5_calc_05",
+        "question": "爸爸今年36岁，是小明年龄的4倍。小明今年几岁？列方程求解。",
+        "answer": "9",
+        "tolerance": 0,
+        "explain": "4x=36，x=36÷4=9（岁）",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_calc_06",
+        "question": "长方形的周长是24厘米，长是8厘米，宽是多少？设宽为x，列方程求。",
+        "answer": "4",
+        "tolerance": 0,
+        "explain": "2(8+x)=24，8+x=12，x=4（厘米）",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_calc_07",
+        "question": "大连到旅顺的距离为y千米，爸爸开车平均速度50千米/时，用了0.8小时。求这段距离。",
+        "answer": "40",
+        "tolerance": 0,
+        "explain": "y÷50=0.8，y=50×0.8=40（千米）",
+        "difficulty": 3
+      }
+    ],
+    "judge": [
+      {
+        "id": "c5_j_01",
+        "question": "含有未知数的式子就是方程 （ ）",
+        "answer": false,
+        "explain": "方程必须是等式。如3x+5含有未知数但不是等式，所以不是方程",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_j_02",
+        "question": "x = 3 是方程 2x = 6 的解 （ ）",
+        "answer": true,
+        "explain": "把x=3代入：2×3=6，左右相等，所以x=3是解",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_j_03",
+        "question": "等式两边同时除以同一个数，等式仍然成立 （ ）",
+        "answer": false,
+        "explain": "除数不能为0。两边除以的数必须不为0，等式才成立",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_j_04",
+        "question": "所有的方程都是等式 （ ）",
+        "answer": true,
+        "explain": "方程的定义就是含有未知数的等式，所以方程一定是等式",
+        "difficulty": 1
+      },
+      {
+        "id": "c5_j_05",
+        "question": "所有的等式都是方程 （ ）",
+        "answer": false,
+        "explain": "3+5=8是等式但不含未知数，不是方程",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_j_06",
+        "question": "如果a=b，那么a×c = b×c （ ）",
+        "answer": true,
+        "explain": "等式两边同时乘以相同的数，等式仍然成立",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_j_07",
+        "question": "3a + 5a = 8a 运用了乘法分配律 （ ）",
+        "answer": true,
+        "explain": "3a+5a = a×(3+5) = 8a，这就是乘法分配律的逆用",
+        "difficulty": 2
+      },
+      {
+        "id": "c5_j_08",
+        "question": "x² 一定大于 2x （ ）",
+        "answer": false,
+        "explain": "当x=1时，x²=1, 2x=2，x²<2x；当x=3时，x²=9>2x=6。不一定",
+        "difficulty": 3
+      }
+    ],
+    "match": [
+      {
+        "id": "c5_m_01",
+        "question": "将文字描述与含字母的式子配对",
+        "left_items": [
+          "a与b的和",
+          "a的3倍",
+          "比x多5",
+          "y除以4"
+        ],
+        "right_items": [
+          "a+b",
+          "3a",
+          "x+5",
+          "y÷4"
+        ],
+        "pairs": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "difficulty": 1
+      },
+      {
+        "id": "c5_m_02",
+        "question": "将方程与它的解配对",
+        "left_items": [
+          "x+7=15",
+          "3x=21",
+          "x÷5=4",
+          "2x-3=9"
+        ],
+        "right_items": [
+          "x=8",
+          "x=7",
+          "x=20",
+          "x=6"
+        ],
+        "pairs": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "difficulty": 2
+      },
+      {
+        "id": "c5_m_03",
+        "question": "将应用题与列出的方程配对",
+        "left_items": [
+          "小明有5支笔，又买x支后共有12支",
+          "每本练习本2元，买x本花16元",
+          "一个数的3倍是27",
+          "x加上5等于13"
+        ],
+        "right_items": [
+          "5+x=12",
+          "2x=16",
+          "3x=27",
+          "x+5=13"
+        ],
+        "pairs": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "difficulty": 2
+      }
+    ],
+    "speed": [
+      {
+        "id": "c5_s_01",
+        "question": "x + 6 = 10，x = ?",
+        "options": [
+          "4",
+          "16",
+          "6",
+          "10"
+        ],
+        "answer": 0,
+        "time_limit": 10,
+        "difficulty": 1
+      },
+      {
+        "id": "c5_s_02",
+        "question": "8x = 32，x = ?",
+        "options": [
+          "4",
+          "8",
+          "24",
+          "256"
+        ],
+        "answer": 0,
+        "time_limit": 10,
+        "difficulty": 1
+      },
+      {
+        "id": "c5_s_03",
+        "question": "下面哪个是方程？",
+        "options": [
+          "2x+1=7",
+          "2x+1",
+          "2+1=3",
+          "7-2=5"
+        ],
+        "answer": 0,
+        "time_limit": 12,
+        "difficulty": 1
+      },
+      {
+        "id": "c5_s_04",
+        "question": "15 - x = 6，x = ?",
+        "options": [
+          "9",
+          "21",
+          "6",
+          "15"
+        ],
+        "answer": 0,
+        "time_limit": 12,
+        "difficulty": 2
+      },
+      {
+        "id": "c5_s_05",
+        "question": "a个苹果分给8人，每人3个，a = ?",
+        "options": [
+          "24",
+          "11",
+          "5",
+          "8"
+        ],
+        "answer": 0,
+        "time_limit": 12,
+        "difficulty": 2
+      },
+      {
+        "id": "c5_s_06",
+        "question": "2x + 4 = 14，x = ?",
+        "options": [
+          "5",
+          "9",
+          "7",
+          "3"
+        ],
+        "answer": 0,
+        "time_limit": 15,
+        "difficulty": 2
+      },
+      {
+        "id": "c5_s_07",
+        "question": "如果 x = y，那么 x + 5 = ?",
+        "options": [
+          "y + 5",
+          "5x",
+          "5y",
+          "x = 5"
+        ],
+        "answer": 0,
+        "time_limit": 12,
+        "difficulty": 2
+      },
+      {
+        "id": "c5_s_08",
+        "question": "25 ÷ x = 5，x = ?",
+        "options": [
+          "5",
+          "20",
+          "30",
+          "125"
+        ],
+        "answer": 0,
+        "time_limit": 12,
+        "difficulty": 2
+      },
+      {
+        "id": "c5_s_09",
+        "question": "大连老虎滩海洋公园成人票x元，买2张共240元，x=?",
+        "options": [
+          "120",
+          "240",
+          "480",
+          "60"
+        ],
+        "answer": 0,
+        "time_limit": 15,
+        "difficulty": 2
+      },
+      {
+        "id": "c5_s_10",
+        "question": "3x - 2 = 10，x = ?",
+        "options": [
+          "4",
+          "3",
+          "5",
+          "8"
+        ],
+        "answer": 0,
+        "time_limit": 15,
+        "difficulty": 3
+      }
+    ]
+  }
+}
