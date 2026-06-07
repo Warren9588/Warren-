@@ -11,7 +11,7 @@
     if (!page) return;
 
     // 设置教室背景
-    page.style.background = 'url(assets/scenes/classroom-bg.png) center/cover no-repeat';
+    page.style.background = 'url(assets/scenes/classroom-bg.webp) center/cover no-repeat';
     page.style.backgroundAttachment = 'fixed';
 
     if (!result) {
