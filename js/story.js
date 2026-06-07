@@ -19,12 +19,12 @@
 
     // 场景图片映射
     var sceneImages = {
-      1: 'assets/scenes/mall.png',
-      2: 'assets/scenes/square.png',
-      3: 'assets/scenes/port.png',
-      4: 'assets/scenes/museum.png',
-      5: 'assets/scenes/tram.png',
-      6: 'assets/scenes/weather.png'
+      1: 'assets/scenes/mall.webp',
+      2: 'assets/scenes/square.webp',
+      3: 'assets/scenes/port.webp',
+      4: 'assets/scenes/museum.webp',
+      5: 'assets/scenes/tram.webp',
+      6: 'assets/scenes/weather.webp'
     };
 
     var html = '<div class="container" style="max-width:750px;text-align:center;">';
