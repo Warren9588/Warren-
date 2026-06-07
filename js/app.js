@@ -113,7 +113,7 @@
     // 设置海洋馆背景
     var page = document.getElementById('page-teacher');
     if (page) {
-      page.style.background = 'url(assets/scenes/classroom-bg.png) center/cover no-repeat';
+      page.style.background = 'url(assets/scenes/classroom-bg.webp) center/cover no-repeat';
       page.style.backgroundAttachment = 'fixed';
     }
     if (typeof MathAuth !== 'undefined') MathAuth.renderTeacherPage();
@@ -124,7 +124,7 @@
     var page = document.getElementById('page-map');
     // 设置银沙滩海边背景
     if (page) {
-      page.style.background = 'url(assets/scenes/beach-bg.png) center/cover no-repeat';
+      page.style.background = 'url(assets/scenes/beach-bg.webp) center/cover no-repeat';
       page.style.backgroundAttachment = 'fixed';
     }
     if (!chapterData) {
@@ -1344,7 +1344,7 @@
   function renderWrongCamp() {
     var page = document.getElementById('page-wrongcamp');
     if (!page) return;
-    page.style.background = 'url(assets/scenes/library-bg.png) center/cover no-repeat';
+    page.style.background = 'url(assets/scenes/library-bg.webp) center/cover no-repeat';
     page.style.backgroundAttachment = 'fixed';
 
     var sid = (typeof MathAuth !== 'undefined') ? MathAuth.getCurrentStudentId() : null;
@@ -1903,7 +1903,7 @@
   function renderAdvanced() {
     var page = document.getElementById('page-advanced');
     if (!page) return;
-    page.style.background = 'url(assets/scenes/bridge-bg.png) center/cover no-repeat';
+    page.style.background = 'url(assets/scenes/bridge-bg.webp) center/cover no-repeat';
     page.style.backgroundAttachment = 'fixed';
 
     var sid = (typeof MathAuth !== 'undefined') ? MathAuth.getCurrentStudentId() : null;
@@ -2458,7 +2458,7 @@
   function renderReportPage(studentId) {
     var page = document.getElementById('page-report');
     if (!page) return;
-    page.style.background = 'url(assets/scenes/report-bg.png) center/cover no-repeat';
+    page.style.background = 'url(assets/scenes/report-bg.webp) center/cover no-repeat';
     page.style.backgroundAttachment = 'fixed';
 
     var students = MathStorage.getStudents();
@@ -2577,7 +2577,7 @@
   function renderAdvancedReportPage(studentId) {
     var page = document.getElementById('page-report-adv');
     if (!page) return;
-    page.style.background = 'url(assets/scenes/advreport-bg.png) center/cover no-repeat';
+    page.style.background = 'url(assets/scenes/advreport-bg.webp) center/cover no-repeat';
     page.style.backgroundAttachment = 'fixed';
 
     var students = MathStorage.getStudents();
